@@ -34,14 +34,14 @@ interests:
   - Network Security
   - Reverse Engineering
   - Security Tool Development
-weapons: C | Python | Bash
+weapons: C | C++ | Python | Bash
 editor: Neovim / VS Code
 os: Arch Linux (btw)
 available_for: Work | Internships | Collaboration
 ```
 
 - 🔒 Cybersecurity student — breaking things to understand how they work
-- 🛠️ Building security tools and scripts in **C**, **Python**, and **Bash**
+- 🛠️ Building security tools and scripts in **C**, **C++**, **Python**, and **Bash**
 - 🐧 Running **Arch Linux** · editing with **Neovim**
 - 🎯 Focused on offensive security, network analysis, and reverse engineering
 - 🤝 Always open to collaborate on security-related projects
@@ -54,10 +54,15 @@ available_for: Work | Internships | Collaboration
 
 #### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,py,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash&theme=dark" />
 </a>
 
-<br/><br/>
+<br/>
+
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+<br/>
 
 #### 🔐 Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
@@ -70,7 +75,7 @@ available_for: Work | Internships | Collaboration
 
 #### 🖥️ Environment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,git,linux,cmake&theme=dark" />
 </a>
 
 </div>
